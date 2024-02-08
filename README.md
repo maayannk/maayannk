@@ -3,10 +3,12 @@
 ## Hi there 👋, I'm Mayank
 
 I'm a passionate Software Engineer from India.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maayannk&label=Profile%20views&color=0e75b6&style=flat" alt="maayannk" /> </p>
 
 ### About Me
 - 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me: maayannk123@gmail.com
+
  ### Connect me 
 - [X](https://twitter.com/maayannk12)
 
